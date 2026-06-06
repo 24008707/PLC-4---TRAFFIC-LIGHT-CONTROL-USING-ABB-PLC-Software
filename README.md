@@ -97,9 +97,15 @@ T3 Done → Return to T1
 
 ## Output
 
+NORMAL WORKING:
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/31fcb1c0-6bbb-4802-8c21-bbdbb367a669" />
 
 
 
+COUNTER ON OUTPUT:
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/981e0213-18e8-4795-9fcc-224708d38403" />
 
 
 
